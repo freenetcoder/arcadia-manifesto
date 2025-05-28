@@ -5,7 +5,8 @@
 
 ## ⚓️ Preamble: The Chain with No Kings
 
-In a digital world ruled by walled gardens and centralized empires, Arcadia rises as a sovereign land of pure Proof-of-Work. Mined not by elite rigs, but by anyone with a browser and the will to earn.
+In a digital world ruled by walled gardens and centralized empires, Arcadia rises as a sovereign land 
+of pure Proof-of-Work. Mined not by elite rigs, but by anyone with a browser and the will to earn.
 
 We don’t blend in. We ignite revolutions — with code, culture, and courage.
 
